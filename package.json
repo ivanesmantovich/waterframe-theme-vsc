@@ -1,0 +1,29 @@
+{
+  "name": "waterframe-theme",
+  "displayName": "Waterframe Theme",
+  "description": "Long ago, people lived in peace, bathed in the warmth of light.",
+  "version": "0.0.1",
+  "publisher": "ive",
+  "keywords": [
+    "theme",
+    "light theme",
+    "minimalistic theme",
+    "purple theme",
+    "green theme"
+  ],
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Waterframe Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Waterframe Theme-color-theme.json"
+      }
+    ]
+  }
+}
