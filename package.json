@@ -15,7 +15,7 @@
     "purple theme",
     "green theme"
   ],
-  "icon": "./waterframe_icon.png",
+  "icon": "waterframe_icon.png",
   "engines": {
     "vscode": "^1.82.0"
   },
