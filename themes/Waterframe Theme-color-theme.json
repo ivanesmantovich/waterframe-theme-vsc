@@ -24,6 +24,8 @@
 
         // Status Bar
         "statusBar.background": "#F7F6FF",
+        "statusBar.noFolderBackground": "#F7F6FF",
+        "statusBar.debuggingBackground": "#F7F6FF",
         "statusBar.foreground": "#000000",
         "statusBarItem.hoverBackground": "#CEC7FF",
 
