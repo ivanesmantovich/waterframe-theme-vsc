@@ -94,6 +94,7 @@
         "minimap.errorHighlight": "#FA00D6",
         "debugConsole.errorForeground": "#FA00D6",
         "statusBarItem.errorForeground": "#FA00D6",
+        "statusBarItem.errorBackground": "#F7F6FF",
         "editorOverviewRuler.errorForeground": "#FA00D6",
         "notificationsErrorIcon.foreground": "#FA00D6",
         "notebookStatusErrorIcon.foreground": "#FA00D6",
