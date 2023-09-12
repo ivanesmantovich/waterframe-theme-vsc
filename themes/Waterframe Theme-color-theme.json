@@ -86,6 +86,10 @@
 
         // Activity Bar TODO
 
+        // Line Numbers
+        "editorLineNumber.foreground": "#F7F6FF",
+        "editorLineNumber.activeForeground": "#CEC7FF",
+
         // Error
         "errorForeground": "#FA00D6",
         "editorError.foreground": "#FA00D6",
